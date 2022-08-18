@@ -560,7 +560,7 @@ button:focus {
 .project-github {
   position: absolute;
   bottom: 0.6rem;
-  left: 1rem;
+  right: 8rem;
 }
 
 /* --------- */
