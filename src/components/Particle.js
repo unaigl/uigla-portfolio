@@ -1,7 +1,7 @@
 import React from "react";
 import Particles from "react-tsparticles";
 
-import "../App.css";
+import "../style.css";
 
 function Particle() {
   return (

@@ -27,4 +27,8 @@ yarn-error.log*
 
 Server/node_modules
 Server/config.js
+
+#files
 TODO.txt
+src/assets/myImage.png
+

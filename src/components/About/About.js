@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Github from "./Github";
 import Aboutcard from "./AboutCard";
-import laptopImg from "../../Assets/about.png";
 import ToolsIUse from "./ToolsIUse";
 import BlockchainnTools from "./BlockchainnTools";
 import WebTools from "./WebTools";

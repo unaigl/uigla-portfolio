@@ -62,7 +62,11 @@ function Resume() {
               <b className="green"> Security</b>
               <br />
               <br />
-              Feel free to <span className="green">connect </span>with me
+              Feel free to{" "}
+              <span className="green">
+                <a href="https://www.linkedin.com/in/unaiiglesias/">connect</a>{" "}
+              </span>
+              with me
             </p>
           </Col>
         </Row>
