@@ -27,7 +27,7 @@ function Resume() {
               LET ME <span className="green"> INTRODUCE </span> MYSELF
             </h1> */}
             <p className="home-about-body">
-              I had been dealing with several softwares before falling in love
+              I've been dealing with several softwares before falling in love
               with programming
               <br />
               <br />I am fluent in
@@ -44,7 +44,7 @@ function Resume() {
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing new
+              Whenever possible, I also apply my passion in developing new
               <b className="green"> Smart Contract</b> models and
               <i>
                 <b className="green">
