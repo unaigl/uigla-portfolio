@@ -39,6 +39,7 @@ function ProjectCards(props) {
             href={props.demoLink}
             target="_blank"
             className="project-demo"
+            data-testid="aaa"
           >
             <CgWebsite /> &nbsp;
             {props.isBlog ? "Blog" : "Demo"}
